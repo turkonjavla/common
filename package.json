@@ -1,6 +1,6 @@
 {
   "name": "@vttickets/common",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/turkonjavla/common.g.git"
+    "url": "git+ssh://git@github.com/turkonjavla/common"
   },
   "author": "Vladimir Turkonja",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/turkonjavla/common.g/issues"
+    "url": "https://github.com/turkonjavla/common/issues"
   },
-  "homepage": "https://github.com/turkonjavla/common.g#readme",
+  "homepage": "https://github.com/turkonjavla/common#readme",
   "devDependencies": {
     "del-cli": "^3.0.1",
     "typescript": "^3.9.7"
