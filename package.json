@@ -1,0 +1,19 @@
+{
+  "name": "@vttickets/common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/turkonjavla/common.g.git"
+  },
+  "author": "Vladimir Turkonja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turkonjavla/common.g/issues"
+  },
+  "homepage": "https://github.com/turkonjavla/common.g#readme"
+}
