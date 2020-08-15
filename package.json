@@ -1,11 +1,11 @@
 {
   "name": "@vttickets/common",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
-    "build/**/*"
+    "build"
   ],
   "scripts": {
     "clean": "del ./build/*",
